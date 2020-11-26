@@ -1,0 +1,2 @@
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Debug\Matrices.exe
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Debug\Matrices.pdb

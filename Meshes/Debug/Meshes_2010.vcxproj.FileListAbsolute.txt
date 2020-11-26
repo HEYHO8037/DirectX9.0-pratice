@@ -1,0 +1,2 @@
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Meshes\Debug\Meshes.exe
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Meshes\Debug\Meshes.pdb

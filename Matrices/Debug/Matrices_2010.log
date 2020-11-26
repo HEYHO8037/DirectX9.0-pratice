@@ -1,0 +1,41 @@
+﻿  Matrices.cpp
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(110,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(110,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(111,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(111,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(112,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(112,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(114,33): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(114,33): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(115,33): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(115,33): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(116,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(116,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(119,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(119,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(120,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(120,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(121,31): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(121,31): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(123,31): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(123,31): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(124,31): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(124,31): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(125,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(125,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(128,31): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(128,31): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(129,33): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(129,33): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(130,31): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(130,31): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(132,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(132,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(133,31): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(133,31): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(134,32): warning C4838: 'float'에서 'DWORD'(으)로의 변환에는 축소 변환이 필요합니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(134,32): warning C4244: '초기화 중': 'float'에서 'DWORD'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(103,11): warning C4189: 'red': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(104,11): warning C4189: 'purple': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Matrices.cpp(102,11): warning C4189: 'blue': 지역 변수가 초기화되었으나 참조되지 않았습니다.
+  Matrices_2010.vcxproj -> C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Debug\Matrices.exe
