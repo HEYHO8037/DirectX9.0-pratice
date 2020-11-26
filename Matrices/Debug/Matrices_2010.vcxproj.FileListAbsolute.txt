@@ -1,2 +1,4 @@
 C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Debug\Matrices.exe
 C:\Users\haeho\Documents\Visual Studio Projects\DirectXSamples\Matrices\Debug\Matrices.pdb
+C:\Users\haeho\Desktop\PERSONAL\Direct X\DirectX 9.0\DirectX9.0-pratice\Matrices\Debug\Matrices.exe
+C:\Users\haeho\Desktop\PERSONAL\Direct X\DirectX 9.0\DirectX9.0-pratice\Matrices\Debug\Matrices.pdb

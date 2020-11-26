@@ -281,7 +281,7 @@ VOID Render()
         // Render the vertex buffer contents
         g_pd3dDevice->SetStreamSource( 0, g_pVB, 0, sizeof( CUSTOMVERTEX ) );
         g_pd3dDevice->SetFVF( D3DFVF_CUSTOMVERTEX );
-        g_pd3dDevice->DrawPrimitive( D3DPT_TRIANGLELIST, 0, 6);
+        g_pd3dDevice->DrawPrimitive( D3DPT_TRIANGLELIST, 0, 12);
 
 
 
